@@ -1,0 +1,19 @@
+{
+  "name": "francisco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caramalho04/api-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caramalho04/api-web/issues"
+  },
+  "homepage": "https://github.com/caramalho04/api-web#readme"
+}
